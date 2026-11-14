@@ -121,22 +121,7 @@ The analysis helps identify patterns such as:
 
 Add your final dashboard screenshots below:
 
-`Screenshots/Dashboard_Overview.png`
-
-## 📁 Repository Structure
-
-```text
-Investment-Preference-Analysis-PowerBI/
-│
-├── README.md
-├── Investment_Preference_Analysis.pbix
-│
-├── Data/
-│   └── Data_set_2.csv
-│
-└── Screenshots/
-    └── Dashboard_Overview.png
-```
+`https://github.com/aasmin-analytics/-Investment-Preference-Analysis-PowerBI/blob/main/Final%20Dashboard.png`
 
 ## 🚀 Project Outcome
 
