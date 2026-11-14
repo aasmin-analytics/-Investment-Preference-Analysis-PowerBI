@@ -135,7 +135,7 @@ It strengthened my understanding of data preparation, DAX calculations, data vis
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/aasmin-khatoon-7768342b2/) | [GitHub](https://github.com/)
 
 ---
 
